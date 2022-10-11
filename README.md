@@ -34,5 +34,32 @@ Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
 
 
 
+## LANGKAH 4
+Membuat  CSS Eksternal file baru dengan nama style_eksternal.css, kemudian mendeklarasikan CSS seperti berikut.
+
+![step-4-1](https://imgur.com/kKARTqM.png)
+![step-4-2](https://imgur.com/ZUaFncf.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
