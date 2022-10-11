@@ -32,6 +32,23 @@ Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
 
 ![step-3](https://imgur.com/ldUoyeH.png)
 
+## LANGKAH 4
+Membuat file baru dengan nama style_eksternal.css, kemudian mendeklarasikan CSS seperti berikut.
+
+![step-4-1](https://imgur.com/kKARTqM.png)
+![step-4-2](https://imgur.com/ZUaFncf.png)
+
+## LANGKAH 5
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file `style_eksternal.css
+
+![step-5](https://imgur.com/poOBFHe.png)
+
+
+
+
+
+
+
 
 # Jawab Pertanyaan Berikut
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
