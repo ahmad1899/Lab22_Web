@@ -16,7 +16,7 @@
  
  
  
-  ![step-1](https://imgur.com/FQPJwTH.png)
+  ![step-1](https://imgur.com/9sl4Ced.png)
 
 
 
@@ -24,4 +24,7 @@
 Menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen. 
 
 ![step-2](https://imgur.com/UbP6fBT.png)
+
+
+
 
