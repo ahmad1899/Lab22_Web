@@ -30,7 +30,7 @@ Menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 ## Langkah 3
 Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
 
-![step-3](https://imgur.com/UbP6fBT.png)
+![step-3](https://imgur.com/ldUoyeH.png)
 
 
 
