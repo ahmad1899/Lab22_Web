@@ -12,8 +12,7 @@
 
  ###Langkah 1
  Membuat dokumen HTML
- 
- [step-1](https://imgur.com/FQPJwTH.png)
+ ![step-1] (https://imgur.com/FQPJwTH.png)
 
 
 
