@@ -42,7 +42,12 @@ Membuat  CSS Eksternal file baru dengan nama style_eksternal.css, kemudian mende
 
 
 
+## LANGKAH 5
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file `style_eksternal.css`
 
+
+
+![step-5](https://imgur.com/poOBFHe.png)
 
 
 
